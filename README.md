@@ -28,8 +28,3 @@ Pipeline ini otomatis berjalan setiap push atau pull request ke branch
 1. **build** — install dependencies dan menjalankan unit test
 2. **sast-scan** — menjalankan analisis SAST menggunakan SonarCloud, 
    dengan Quality Gate sebagai pipeline blocker jika kode tidak 
-<<<<<<< HEAD
-   memenuhi standar kualitas/keamanan.
-=======
-   memenuhi standar kualitas/keamanan.
->>>>>>> 9171f11 (Add project)
